@@ -1,4 +1,4 @@
-#Wed Jun 03 21:22:52 MSK 2020
+#Mon Jun 15 01:16:05 MSK 2020
 base.0=D\:\\flutter_app\\starship_game\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

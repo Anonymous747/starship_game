@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flame/sprite.dart';
-import 'package:starship_game/game_controller.dart';
+import 'package:starship_game/components/game_controller.dart';
 
 class Background {
   String spaceName;
@@ -16,8 +16,8 @@ class Background {
     spaceRect = Rect.fromLTWH(
         0,
         0,//gameController.screenSize.height - (gameController.titleSize * 20),
-        gameController.titleSize * 10,
-        gameController.titleSize * 6 );
+        gameController.screenSize.width,
+        gameController.screenSize.height);
   }
 
   void render(Canvas c) {

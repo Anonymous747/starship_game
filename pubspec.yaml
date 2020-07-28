@@ -51,6 +51,13 @@ flutter:
   assets:
     - assets/images/player/
     - assets/images/background/
+    - assets/images/bullet/
+    - assets/images/enemy/
+    - assets/images/healthBar/
+    - assets/images/menu/
+
+
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
